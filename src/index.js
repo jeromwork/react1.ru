@@ -96,6 +96,8 @@ import React from 'react';
             <Board />
           </div>
           <div className="game-info">
+
+            fjsjdfiwjifw
             <div>{/* status */}</div>
             <ol>{/* TODO */}</ol>
           </div>
