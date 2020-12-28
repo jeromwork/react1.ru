@@ -97,7 +97,7 @@ import React from 'react';
           </div>
           <div className="game-info">
 
-            44444
+            4444455
             <div>{/* status */}</div>
             <ol>{/* TODO */}</ol>
           </div>
