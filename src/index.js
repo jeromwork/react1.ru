@@ -97,7 +97,7 @@ import React from 'react';
           </div>
           <div className="game-info">
 
-            226688
+здесь этого не должно быть
             <div>{/* status */}</div>
             <ol>{/* TODO */}</ol>
           </div>
